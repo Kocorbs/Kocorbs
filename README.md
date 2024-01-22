@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **jeraldcorbo.151017@gmail.com**
 
-- ⚡ Fun fact **If you want to be happy, don't be sad.**
+- ⚡ Fun fact **If you close your eyes, you can't see.**
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kocorbs" alt="kocorbs" /></a> </p>
 
