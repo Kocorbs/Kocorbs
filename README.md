@@ -1,3 +1,4 @@
+https://media1.giphy.com/media/bGgsc5mWoryfgKBx1u/200w.gif?cid=6c09b952wbh0bjlfcm8wz64y2c0zpmv8ksv085dim4p9omwh&ep=v1_gifs_search&rid=200w.gif&ct=g
 <h1 align="center">Hello Everyone 👋, I'm Jerald C. Corbo</h1>
 <h3 align="center">A aspiring web developer.</h3>
 
