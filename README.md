@@ -1,6 +1,3 @@
-<p align="center">
-  <img width="250" radius="25%" src="corbs.jpg" />
-</p>
 <h1 align="center">Hello Everyone 👋, I'm Jerald C. Corbo</h1>
 <h3 align="center">A aspiring web developer.</h3>
 
